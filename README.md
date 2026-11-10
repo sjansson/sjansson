@@ -1,5 +1,10 @@
-## Hi there 👋
+## Welcome to my collection of little projects!
 
+- Biostatistician by trade
+- My personal quest is to bridge the gap between advanced statistical innovations and real-world public health applications
+- I know a lot about: probabilistic record linkage, traffic safety, and Bayesian methods
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjansson&show_icons=true)
 <!--
 **sjansson/sjansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
