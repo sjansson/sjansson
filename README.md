@@ -5,6 +5,8 @@
 - I know a lot about: probabilistic record linkage, traffic safety, and Bayesian methods
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjansson&show_icons=true)
+[![Your GitHub stats](https://vercel.app)](https://github.com/sjansson/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact)
 <!--
 **sjansson/sjansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
