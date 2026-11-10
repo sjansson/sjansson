@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github_header_banner.png)
 
 ## Welcome to my collection of little projects!
 
