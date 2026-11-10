@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 ## Welcome to my collection of little projects!
 
 - Biostatistician by trade
