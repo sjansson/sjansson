@@ -6,6 +6,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact)\
 
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=sjansson)](https://github.com/stats-organization/github-stats-extended)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact" />
 </p>
