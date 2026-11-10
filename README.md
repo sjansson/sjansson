@@ -4,9 +4,12 @@
 - My personal quest is to bridge the gap between advanced statistical innovations and real-world public health applications
 - I know a lot about: probabilistic record linkage, traffic safety, and Bayesian methods
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjansson&show_icons=true)
-[![Your GitHub stats](https://vercel.app)](https://github.com/sjansson/github-readme-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact)\
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjansson&layout=compact" />
+</p>
+
 <!--
 **sjansson/sjansson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
